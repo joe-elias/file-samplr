@@ -1,3 +1,5 @@
 # file-samplr
 
-code to make a sample directory containing files, then randomly sample the files into another directory using bash script. 
+randomly sample files into another directory using bash script. originally developed to create a training dataset for PAM recordings annotations. 
+
+included is a general framework for constructing a directory framework with files to test the sampler. 
