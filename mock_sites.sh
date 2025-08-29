@@ -1,3 +1,5 @@
+# code to create a mock directory framework to test file-samplr before using it on important data
+
 for pond in {1..9}; do # make the set of ponds
     for year in {2000..2025}; do # make the set of years
         for month in {1..12}; do # make set of months
